@@ -1,0 +1,26 @@
+{
+  "name": "cordova-react-sample-app",
+  "version": "1.0.0",
+  "description": "Cordova + React Mobile App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SIT-Digicre/cordova-react-sample-app.git"
+  },
+  "keywords": [
+    "cordova",
+    "react",
+    "mobile"
+  ],
+  "author": "sh4869",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/SIT-Digicre/cordova-react-sample-app/issues"
+  },
+  "homepage": "https://github.com/SIT-Digicre/cordova-react-sample-app#readme",
+  "devDependencies": {
+  }
+}
