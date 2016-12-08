@@ -22,5 +22,7 @@
   },
   "homepage": "https://github.com/SIT-Digicre/cordova-react-sample-app#readme",
   "devDependencies": {
+    "webpack": "^1.14.0",
+    "webpack-dev-server": "^1.16.2"
   }
 }
